@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ovi.problemsolvingusingc">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/app_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ProgrammingTopics" />
+        <activity android:name=".QuizTest" />
+        <activity android:name=".UsefulLinks" />
+        <activity android:name=".Developer" />
+        <activity android:name=".STL" />
+        <activity android:name=".contestSites" />
+        <activity android:name=".TopicNT" />
+        <activity android:name=".TopicSrcNSrt" />
+        <activity android:name=".TopicDS" />
+        <activity android:name=".TopicGreedy" />
+        <activity android:name=".TopicDP" />
+        <activity android:name=".TopicGraph" />
+        <activity android:name=".TopicGeometry" />
+        <activity android:name=".TopicGameTheory" />
+        <activity android:name=".TopicString" />
+        <activity android:name=".TopicOther"></activity>
+    </application>
+
+</manifest>

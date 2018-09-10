@@ -1,0 +1,389 @@
+<resources>
+    <string name="app_name">Problem Solving Using C++</string>
+    <string name="welcome_to_cp">Welcome to CP</string>
+    <string name="button">Button</string>
+    <string name="programming">Programming</string>
+    <string name="take_a_quiz_test">Take a Quiz Test</string>
+    <string name="learn_new_topics">Learn New Topics</string>
+    <string name="welcome_to_competitive_programming">Welcome to Competitive Programming</string>
+    <string name="some_useful_links">Some Useful Links</string>
+    <string name="developer">Developer</string>
+    <string name="feedback">Feedback</string>
+    <string name="textview">TextView</string>
+    <string name="mohammad_hafiz_al_masud">Mohammad Hafiz-Al-Masud</string>
+    <string name="stl">
+        # <a href="http://www.progkriya.org/gyan/stl.html">স্ট্যান্ডার্ড টেম্প্লেট লাইব্রেরী</a>\n\n
+        # <a href="https://www.geeksforgeeks.org/the-c-standard-template-library-stl/">The C++ Standard Template Library (STL) - GeeksforGeeks</a>\n\n
+        # <a href="https://www.studytonight.com/cpp/stl/stl-introduction">Standard Template Library in C++ Tutorial | Studytonight</a>\n\n
+        # <a href="https://www.hackerearth.com/practice/notes/standard-template-library/">Standard Template Library | HackerEarth</a>\n\n
+        # <a href="https://cal-linux.com/tutorials/STL.html">An Introduction to the C++ Standard Template Library (STL) - Cal-linux</a>\n\n
+        # <a href="http://www.yolinux.com/TUTORIALS/LinuxTutorialC++STL.html">C++ STL Tutorial - YoLinux.com</a>\n\n
+        # <a href="https://stackoverflow.com/questions/827236/what-is-the-stl">What is the STL? - Stack Overflow</a>\n\n
+    </string>
+    <string name="stl_resources">STL Resources</string>
+    <string name="beginners_guide">
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1437">কেন আমি প্রোগ্রামিং শিখবো? | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://medium.com/programming-and-algorithms-iitr/competitive-programming-a-warm-up-66d0ce0bbaff">Competitive programming : A warm-up (Looking into the basics)</a>\n\n
+        # <a href="https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/">Getting started with the sport of competitive programming | HackerEarth</a>\n\n
+        # <a href="https://www.quora.com/How-do-I-learn-competitive-programming-as-a-beginner">How to learn competitive programming as a beginner - Quora</a>\n\n
+        # <a href="https://shivamkhandelwal.in/beginners-guide-to-competitive-programming/">Beginners guide to Competitive programming - Shivam Khandelwal</a>\n\n
+        # <a href="https://gist.github.com/sharmaeklavya2/5299a4cd059a6f6f8699">Getting started with Competitive Programming - GitHub Gist</a>\n\n
+        # <a href="http://www.somewhereinblog.net/blog/ragibhasanblog/28911437">যন্ত্র গণকের যন্তর মন্তর - ১ - somewhere in blog</a>\n\n
+        # <a href="http://www.somewhereinblog.net/blog/ragibhasanblog/28912341">যন্ত্র গণকের যন্তর মন্তর - ২ - somewhere in blog</a>\n\n
+        </string>
+    <string name="complexity_analysis">Complexity Analysis</string>
+    <string name="complexitylinks">
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1313">অ্যালগরিদম কমপ্লেক্সিটি(বিগ “O” নোটেশন) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://discrete.gr/complexity/">A Gentle Introduction to Algorithm</a>\n\n
+        # <a href="http://pages.cs.wisc.edu/~vernon/cs367/notes/3.COMPLEXITY.html">Complexity and Big-O Notation</a>\n\n
+        # <a href="https://www.quora.com/What-are-the-thumb-rules-used-by-competitive-programmers-to-check-if-their-solution-would-run-within-the-time-limit-or-not">What are the thumb rules used by competitive programmers to check if their solution would run within the time limit or not?</a>\n\n
+        # <a href="https://codeforces.com/blog/entry/17799">How many operations per second can my solution be? - Codeforces</a>\n\n
+    </string>
+    <string name="starters_guide">Starters Guide</string>
+    <string name="codeforces">Codeforces</string>
+    <string name="codechef">Codechef</string>
+    <string name="uva_online_judge">UVA Online Judge</string>
+    <string name="at_coder">At Coder</string>
+    <string name="cs_academy">CS Academy</string>
+    <string name="hackerearth">HackerEarth</string>
+    <string name="hackerrank">HackerRank</string>
+    <string name="devskill">DevSkill</string>
+    <string name="uri_online_judge">Uri Online Judge</string>
+    <string name="a2_online_judge">A2 Online Judge</string>
+    <string name="light_online_judge">Light Online Judge</string>
+    <string name="sphere_online_judge">Sphere Online Judge</string>
+    <string name="timus_online_judge">Timus Online Judge</string>
+    <string name="few_bangla_blogs_on_programming">Few Bangla Blogs on Programming</string>
+    <string name="some_competitive_programming_sites">Some Competitive Programming Sites</string>
+    <string name="dawn_of_programming_contest">Dawn of Programming Contest</string>
+    <string name="ntintro">
+        # <a href="http://www.progkriya.org/gyan/basic-number-theory.html">ন্যূনতম সংখ্যাতত্ত্ব</a>\n\n
+    </string>
+    <string name="primelinks">
+        # <a href="http://shoshikkha.com/archives/2332">প্রাইম জেনারেশন - সিভ অব Eratosthenes » স্বশিক্ষা</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=624">প্রাইম জেনারেটর (Sieve of Eratosthenes) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=855">বিটওয়াইজ্ সিভ(Bitwise sieve) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://shikhorroy.wordpress.com/2013/01/06/wp-mep2mliv-1y/">ইরাটোস্থিনিসঃ পর্ব ০২ মৌলিক সংখ্যা - শিখরের ব্লগ</a>\n\n
+        # <a href="https://returnzerooo.wordpress.com/2016/03/03/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AE-%E0%A6%B8%E0%A6%BF%E0%A6%AD-%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0/">প্রাইম জেনারেশন সিভ ও প্রাইম ফ্যাক্টরাইজেশন - return 0</a>\n\n
+        # <a href="https://shikhorroy.wordpress.com/2013/04/13/wp-mep2mliv-3l/">প্রাইম নাম্বার চেকিং(ইউজিং সাইভ মেথড) - শিখরের ব্লগ</a>\n\n
+        # <a href="http://lightoj.com/article_show.php?article=1001">Sieve of Eratosthenes (Generating Primes) - LightOJ</a>\n\n
+        # <a href="http://lightoj.com/article_show.php?article=1002">Prime Factorization - LightOJ</a>\n\n
+    </string>
+    <string name="divisor">
+        # <a href="http://lightoj.com/article_show.php?article=1003">Finding Divisors, Number of Divisors and Summation of Divisors - LightOJ</a>\n\n
+        # <a href="http://shoshikkha.com/archives/1069">সংখ্যাকে পেটানো! ( বিভাজক নির্ণয় ) » স্বশিক্ষা</a>\n\n
+    </string>
+    <string name="modular_arithmetic">
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=936">মডুলার অ্যারিথমেটিক | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://mukitmkbs.wordpress.com/2014/09/30/big-mod/">  Big Mod - MUKIT09</a>\n\n
+        # <a href="http://shoshikkha.com/archives/29">  রিকার্শনের মাধ্যমে মডুলার এক্সপনেন্সিয়েশন! - স্বশিক্ষা</a>\n\n
+        # <a href="https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/">  Modular Multiplicative Inverse - MUKIT09</a>\n\n
+        # <a href="https://comeoncodeon.wordpress.com/2011/10/09/modular-multiplicative-inverse/">  Modular Multiplicative Inverse - COME ON CODE ON</a>\n\n
+        # <a href="http://cs.brown.edu/courses/cs007/modmult/node2.html">  Modular division via the multiplicative inverse of the denominator - Brown CS</a>\n\n
+    </string>
+    <string name="comb">
+        # <a href="http://shoshikkha.com/archives/4356">  ফাস্ট এক্সপনেনসিয়েশন! » স্বশিক্ষা</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=600">  কম্বিনেটোরিক্স: অ্যারেঞ্জমেন্ট এবং ডি-রেঞ্জমেন্ট গণনা | শাফায়েতের ব্লগ</a>\n\n
+    </string>
+    <string name="euclid">
+        # <a href="http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/">  ইউক্লিডিয়ান অ্যালগরিদম – সুবিন ডট কম</a>\n\n
+        # <a href="https://returnzerooo.wordpress.com/2017/08/12/%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A1-%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A7%80%E0%A7%9F%E0%A6%BE%E0%A6%A8/">  এক্সটেন্ডেড ইউক্লিডীয়ান অ্যালগোরিদম - return 0</a>\n\n
+    </string>
+    <string name="prob">
+        # <a href="http://www.shafaetsplanet.com/?p=3060">  প্রোবাবিলিটি: এক্সপেক্টেড ভ্যালু | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/08/probability-expected-value-part-1.html">Shakil Ahmed\'s Blog : Probability and Expected value ( part - 1 )</a>\n\n
+    </string>
+    <string name="nt_other">
+        # <a href="http://shoshikkha.com/archives/1472">Ф ফাংশন (Euler\'s Phi Function) - Totient ফাংশন » স্বশিক্ষা</a>\n\n
+        # <a href="http://www.progkriya.org/gyan/matrix-expo.html">ম্যাট্রিক্স এক্সপোনেনসিয়েশন</a>\n\n
+        # <a href="https://rezwanarefin01.github.io/posts/fast-fourier-transform/">Fast Fourier Transform - Rezwan\'s CP Blog</a>\n\n
+        # <a href="http://shoshikkha.com/archives/3487"> হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ - স্বশিক্ষা</a>\n\n
+        # <a href="http://shoshikkha.com/archives/3510"> হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ - রিটার্নস! - স্বশিক্ষা</a>\n\n
+        # <a href="http://www.math.mtu.edu/mathlab/COURSES/holt/dnt/">Discovering Number Theory</a>\n\n
+    </string>
+    <string name="sort">
+        <font size="20"><b>Sorting\n\n</b></font>
+        # <a href="http://bongobani.blogspot.com/2010/06/blog-post_1625.html">  বাংলা ভাষী: যন্ত্র গণকের যন্তর মন্তর - ৩\n\n</a>
+        # <a href="http://shoshikkha.com/archives/4022">  সর্ট!! পর্ব - ১ » স্বশিক্ষা\n\n</a>
+        <font size="18"><b>Bubble Sort\n</b></font>
+        # <a href="https://www.youtube.com/watch?v=ZUI0VQ9JvDw"> বাবল সর্ট (ভিডিও)\n\n</a>
+        # <a href="https://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm/">  বাবল সর্ট এলগরিদম - Bubble Sort Algorithm in C - Hasaner Rafkhata\n\n</a>
+        <font size="18"><b>Counting Sort\n</b></font>
+        # <a href="https://hellohasan.com/2016/09/25/%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-counting-sort-algorithm/">  কাউন্টিং সর্ট - Counting sort algorithm - Hasaner Rafkhata\n\n</a>
+        <font size="18"><b>Merge Sort\n</b></font>
+        # <a href="https://hellohasan.com/2016/10/22/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9c-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-merge-sort-algorithm/">  মার্জ সর্ট অ্যালগরিদম - Merge Sort Algorithm - Hasaner Rafkhata\n\n</a>
+        # <a href="https://youtu.be/mWuk56Aa6xw">  মার্জ সর্ট - ১ (ভিডিও)\n\n</a>
+        # <a href="https://youtu.be/-UzllqjFHW8">  মার্জ সর্ট - ২ - সি দিয়ে ইমপ্লিমেন্টেশন (ভিডিও)\n\n</a>
+        # <a href="https://youtu.be/g63rwGXC720">  মার্জ সর্ট - ৩ - স্পেস ও টাইম কমপ্লেক্সিটি (ভিডিও)\n\n</a>
+        <font size="18"><b>Quick Sort\n</b></font>
+        # <a href="https://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm/">  কুইক সর্ট অ্যালগরিদম - Quick Sort Algorithm - Hasaner Rafkhata\n\n</a>
+        # <a href="https://youtu.be/PmlfVdY_XjI">  কুইক সর্ট ১ - অ্যালগরিদম (ভিডিও)\n\n</a>
+        # <a href="https://youtu.be/kwG0C2Lv-fQ">  কুইক সর্ট ২ - পার্টিশন (ভিডিও)\n\n</a>
+        <font size="18"><b>Selection Sort\n</b></font>
+        # <a href="https://youtu.be/qHmByz1YvQs"> সিলেকশন সর্ট (ভিডিও)\n\n</a>
+        <font size="18"><b>Insertion Sort\n</b></font>
+        # <a href="https://youtu.be/aBi8ptRBWY8"> ইনসার্শন সর্ট (ভিডিও)\n\n</a>
+        <font size="18"><b>Heap Sort\n</b></font>
+        # <a href="https://youtu.be/m7x0GETKPaU">  হিপ সর্ট - ১ (ভিডিও)\n\n</a>
+        # <a href="https://youtu.be/8Kwh0WgO_TU">  হিপ - ২ - হিপ তৈরি করা (ভিডিও)\n\n</a>
+        # <a href="https://youtu.be/FibnepuyOLY">  হিপ - ৩ - হিপসর্ট (ভিডিও)\n\n</a>
+        <font size="20"><b>Searching\n\n</b></font>
+        <font size="18"><b>Linear Search\n</b></font>
+        # <a href="https://hellohasan.com/2016/10/14/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-linear-search-algorithm/">  লিনিয়ার সার্চ এলগরিদম, Linear Search Algorithm in C - Hasaner Rafkhata\n\n</a>
+        # <a href="https://youtu.be/IbV2eELjP2k">  লিনিয়ার সার্চ (ভিডিও)\n\n</a>
+        <font size="18"><b>Binary Search\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2279">  বাইনারি সার্চ - ১ | শাফায়েতের ব্লগ\n\n</a>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2295">  বাইনারি সার্চ – ২ | শাফায়েতের ব্লগ\n\n</a>
+        # <a href="https://youtu.be/NMC6ltspWys">  বাইনারি সার্চ (ভিডিও)\n\n</a>
+        # <a href="http://blog.faiyaz.info/bisection/"> Bisection | Faiyaz\'s Blog\n\n</a>
+        # <a href="http://hellohasan.com/2016/10/20/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-binary-search-algorithm">  বাইনারি সার্চ এলগরিদম - Binary Search Algorithm - Hasaner Rafkhata\n\n</a>
+        # <a href="http://shoshikkha.com/archives/116">  এলগোরিদমঃ বাইনারি সার্চ ১ম পর্ব - স্বশিক্ষা\n\n</a>
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2014/09/binary-search-part-1.html">  Shakil Ahmed\'s Blog : Binary Search part - 1\n\n</a>
+        <font size="18"><b>Ternary Search\n</b></font>
+        # <a href="http://shoshikkha.com/archives/4332">Ternary Search » স্বশিক্ষা\n\n</a>
+    </string>
+    <string name="ds">
+        # <a href="https://hellohasan.com/2016/10/07/%e0%a6%a1%e0%a7%87%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0-%e0%a6%aa%e0%a6%b0%e0%a6%bf%e0%a6%9a%e0%a7%9f/">  ডেটা স্ট্রাকচার কী ও কেন? - Hasaner Rafkhata</a>\n\n
+        <font size="20"><b>অ্যাারে (Array)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1388">  অ্যারে কম্প্রেশন | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://hellohasan.com/category/data-structure/array/"> অ্যারে – Array | হাসানের রাফখাতা - Hasaner Rafkhata</a>\n\n
+
+        <font size="20"><b>লিংকড লিস্ট (Linked List)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2689"> ডাটা স্ট্রাকচার : লিংকড লিস্ট | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://hellohasan.com/category/data-structure/linked-list/"> লিংকড লিস্ট – Linked List | হাসানের রাফখাতা - Hasaner Rafkhata</a>\n\n
+
+        <font size="20"><b>স্ট্যাক (Stack)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2342">  ডাটা স্ট্রাকচার : স্ট্যাক | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://hellohasan.com/category/data-structure/stack/"> স্ট্যাক – Stack | হাসানের রাফখাতা - Hasaner Rafkhata</a>\n\n
+
+        <font size="20"><b>কিউ (Queue)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/?p=2911"> ডাটা স্ট্রাকচার: কিউ এবং সার্কুলার কিউ | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://hellohasan.com/category/data-structure/queue/"> কিউ – Queue | হাসানের রাফখাতা - Hasaner Rafkhata</a>\n\n
+
+        <font size="20"><b>ট্রি (Tree)\n\n</b></font>
+        # <a href="https://hellohasan.com/category/data-structure/tree/tree-basic-concept/"> ব্যাসিক কনসেপ্ট | হাসানের রাফখাতা - Hasaner Rafkhata</a>\n\n
+        # <a href="https://youtu.be/0I1JVXbHpec"> ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা (ভিডিও)</a>\n\n
+        # <a href="https://youtu.be/Rz93CQd7jXc"> ট্রি - ২ (Tree - 2) - কোনটি ট্রি কোনটি নয়? (ভিডিও)</a>\n\n
+        # <a href="https://youtu.be/p0ltqTz93Nk"> বাইনারি ট্রি প্রিঅর্ডার ট্রাভার্সাল (ভিডিও)</a>\n\n
+        # <a href="https://youtu.be/zd5ayCGPQXA"> বাইনারি ট্রি পোস্টঅর্ডার ট্রাভার্সাল (ভিডিও)</a>\n\n
+        # <a href="https://youtu.be/D9cvhd-jPGs"> বাইনারি ট্রি ইনঅর্ডার ট্রাভার্সাল (ভিডিও)</a>\n\n
+
+        <font size="20"><b>বাইনারী সার্চ ট্রি (Binary Search Tree)\n\n</b></font>
+        # <a href="http://hellohasan.com/category/data-structure/tree/binary-search-tree-bst"> বাইনারি সার্চ ট্রি – BST | হাসানের রাফখাতা - Hasaner Rafkhata</a>\n\n
+        # <a href="https://youtu.be/FpekDm8ztVA"> বাইনারি সার্চ ট্রি - ১ (ভিডিও)</a>\n\n
+        # <a href="https://youtu.be/PrHoIGnU3c0"> বাইনারি সার্চ ট্রি - ২ (ভিডিও)</a>\n\n
+        # <a href="https://youtu.be/IAHqCl5b4fE"> বাইনারি সার্চ ট্রি - ৩ (ভিডিও)</a>\n\n
+        # <a href="https://youtu.be/F2uwPe3GaVU"> বাইনারি সার্চ ট্রি - ৪(ভিডিও)</a>\n\n
+
+
+        <font size="20"><b>ডিসজয়েন্ট সেট (Disjoint Set)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=763"> ডাটা স্ট্রাকচার: ডিসজয়েন্ট সেট(ইউনিয়ন ফাইন্ড) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.nl/2014/01/union-find-algorithm-union-find.html"> Shakil Ahmed\'s Blog : Union Find Algorithm</a>\n\n
+
+        <font size="20"><b>ট্রাই ট্রি (Trie)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1679"> ডাটা স্ট্রাকচার: ট্রাই (প্রিফিক্স ট্রি/রেডিক্স ট্রি) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://blog.faiyaz.info/%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%87-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-trie-tree/"> ট্রাই ট্রি ( Trie Tree ) | Faiyaz\'s Blog</a>\n\n
+
+        <font size="20"><b>সেগমেন্ট ট্রি (Segment Tree)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1557"> ডাটা স্ট্রাকচার: সেগমেন্ট ট্রি-১ | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1591"> ডাটা স্ট্রাকচার: সেগমেন্ট ট্রি-২ (লেজি প্রপাগেশন) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/06/segment-tree-bit-part-1_21.html"> Shakil Ahmed\'s Blog : Segment tree/ BIT part - 1</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1831"> লোয়েস্ট কমন অ্যানসেস্টর | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://rezwanarefin01.github.io/posts/persistent-segment-tree-01/"> Persistent Segment Tree (Part - 01) - Rezwan\'s CP Blog</a>\n\n
+        # <a href="https://rezwanarefin01.github.io/posts/persistent-segment-tree-02/"> Persistent Segment Tree (Part - 02) - Rezwan\'s CP Blog</a>\n\n
+        # <a href="https://returnzerooo.wordpress.com/2018/01/20/%e0%a6%b8%e0%a7%87%e0%a6%97%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf/">  প্রব্লেম অ্যানালাইসিস – সেগমেন্ট ট্রি - return 0</a>\n\n
+
+        <font size="20"><b>বাইনারি ইনডেক্সড ট্রি (Binary Indexed Tree)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1961"> ডাটা স্ট্রাকচার: বাইনারি ইনডেক্সড ট্রি | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="20"><b>সাফিক্স এ্যারে(Suffix Array)\n\n</b></font>
+        # <a href="https://tanvir002700.wordpress.com/2015/01/13/suffix-array/"> Suffix Array - Tanvir\'s Blog</a>\n\n
+        # <a href="https://www.geeksforgeeks.org/suffix-array-set-1-introduction/"> Suffix Array | Set 1 (Introduction) - GeeksforGeeks</a>\n\n
+
+        <font size="20"><b>স্পার্স টেবিল (Sparse Table)\n\n</b></font>
+        # <a href="https://tanvir002700.wordpress.com/2015/05/27/sparse-table/"> Sparse Table - Tanvir\'s Blog</a>\n\n
+
+        <font size="20"><b>পলিসি বেইজড ডাটা স্ট্রাকচার (PBDS)\n\n</b></font>
+        # <a href="https://returnzerooo.wordpress.com/2017/12/24/%E0%A6%AA%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%BF-%E0%A6%AC%E0%A7%87%E0%A6%87%E0%A6%9C%E0%A6%A1-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95/"> পলিসি বেইজড ডাটা স্ট্রাকচার (PBDS) - return 0</a>\n\n
+    </string>
+    <string name="greedy">
+        <font size="20"><b>Basic of Greedy Techniques\n\n</b></font>
+        # <a href="https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/">Basics of Greedy Algorithms Tutorials &amp; Notes | Algorithms | HackerEarth</a>\n\n
+        # <a href="https://www.geeksforgeeks.org/greedy-algorithms/">Greedy Algorithms - GeeksforGeeks</a>\n\n
+
+        <font size="20"><b>Activity Selection Problem, Change Making, Interval Scheduling Problem\n\n</b></font>
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2014/09/greedy-method.html">Greedy Method: Change Making, Activity Selection Problem, Interval scheduling  problem | Shakil Ahmed\'s Blog</a>\n\n
+        # <a href="https://www.geeksforgeeks.org/greedy-algorithms-set-1-activity-selection-problem/">Greedy Algorithms | Set 1 (Activity Selection Problem) - GeeksforGeeks</a>\n\n
+
+        <font size="20"><b>Fractional Knapsack Problem\n\n</b></font>
+        # <a href="https://www.geeksforgeeks.org/fractional-knapsack-problem/">Fractional Knapsack Problem - GeeksforGeeks</a>\n\n
+
+        <font size="20"><b>মিনিমাম স্প্যানিং ট্রি (Minimum Spanning Tree)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=692">মিনিমাম স্প্যানিং ট্রি (প্রিম অ্যালগোরিদম) - শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=825">মিনিমাম স্প্যানিং ট্রি (ক্রুসকাল অ্যালগোরিদম) - শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://returnzerooo.wordpress.com/2016/06/09/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%B8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/"> প্রিম\'স অ্যালগোরিদম : মিনিমাম স্প্যানিং ট্রি - return 0</a>\n\n
+        <font size="20"><b>Huffman Coding\n\n</b></font>
+        # <a href="https://www.geeksforgeeks.org/greedy-algorithms-set-3-huffman-coding/">Huffman Coding -  GeeksforGeeks</a>\n\n
+
+        <font size="20"><b>Two Pointer\n\n</b></font>
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/06/two-pointer.html">Two Pointer | Shakil Ahmed\'s Blog</a>\n\n
+
+        <font size="20"><b>Problems Based on Greedy Technique\n\n</b></font>
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/06/greedy-part-2.html">Some Greedy Problems Solution | Shakil Ahmed\'s Blog (Part 1)</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2016/04/greedy-part-3.html">Some Greedy Problems Solution | Shakil Ahmed\'s Blog (Part 2)</a>\n\n
+        # <a href="https://www.geeksforgeeks.org/category/greedy/">Greedy Archives - GeeksforGeeks</a>\n\n
+    </string>
+    <string name="dp">
+        <font size="20"><b>Recursion\n\n</b></font>
+        # <a href="https://hellohasan.com/2016/11/11/%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%b8%e0%a6%bf%e0%a6%ad-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8-recursive-function-recursion/">রিকার্সিভ ফাংশন - Recursive Function - Hasaner Rafkhata</a>\n\n
+        # <a href="https://hellohasan.com/2016/11/23/%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%b8%e0%a6%bf%e0%a6%ad-factorial-recursive-function-recursion-2/"> রিকার্সিভ ফাংশন দিয়ে ফ্যাক্টরিয়াল বের করা - রিকার্শন</a>\n\n
+        # <a href="https://hellohasan.com/2018/04/10/%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%b8%e0%a6%bf%e0%a6%ad-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8-gcd-recursive-function/"> রিকার্সিভ ফাংশনের সাহায্যে গ সা গু (GCD) নির্ণয় - Hasaner Rafkhata</a>\n\n
+        # <a href="http://subeen.com/%E0%A6%9F%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AB-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%9F/"> টাওয়ার অফ হ্যানয় – সুবিন ডট কম</a>\n\n
+
+        <font size="18"><b>Backtracking\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1266"> ব্যাকট্র্যাকিং: পারমুটেশন জেনারেটর | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/05/backtrack-n-queen.html"> Shakil Ahmed\'s Blog : Backtrack &amp; N Queen</a>\n\n
+        
+        <font size="18"><b>Inclusion Exclusion\n\n</b></font>
+        # <a href="http://shoshikkha.com/archives/2143"> ইনক্লুশন এক্সক্লুশন - রিকার্শন » স্বশিক্ষা</a>\n\n
+
+        <font size="20"><b>Dynamic Programming (DP)\n\n</b></font>
+        <font size="18"><b>ডাইনামিক প্রোগ্রামিং ব্যাসিক\n\n</b></font>
+        # <a href="https://sites.google.com/site/smilitude/recursion_and_dp"> recursion_and_dp - smilitude - Google Sites</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1022"> ডাইনামিক প্রোগ্রামিং এ হাতেখড়ি-১(শুরুর কথা) | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="18"><b>কয়েন চেঞ্জ (Coin Change)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1158"> ডাইনামিক প্রোগ্রামিং এ হাতেখড়ি-৩ (কয়েন চেঞ্জ + রক ক্লাইম্বিং) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://sites.google.com/site/programinggconcept/algorithm"> algorithm coin change - programinggconcept - Google Sites</a>\n\n
+
+        <font size="18"><b>লংগেস্ট কমন সাবসিকোয়েন্স (LCS)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1862"> ডাইনামিক প্রোগ্রামিং: লংগেস্ট কমন সাবসিকোয়েন্স | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="18"><b>লংগেস্ট ইনক্রিসিং সাবসিকোয়েন্স (LIS)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1211"> ডাইনামিক প্রোগ্রামিং এ হাতেখড়ি-৪ | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2016/04/lis-and-variation.html"> Shakil Ahmed\'s Blog : LIS and variation</a>\n\n
+
+        <font size="18"><b>০/১ ন্যাপসাক (0/1 knapsack)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1072"> ডাইনামিক প্রোগ্রামিং এ হাতেখড়ি-২ | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="https://sites.google.com/site/programinggconcept/0-1-knapsack"> ০/১ ন্যাপসাক (0/1 knapsack) - programinggconcept</a>\n\n
+        # <a href="https://returnzerooo.wordpress.com/2016/02/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95/"> ০-১ ন্যাপস্যাকঃ টপ ডাউন - return 0</a>\n\n
+        # <a href="https://returnzerooo.wordpress.com/2016/05/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A6%9F%E0%A6%AE-%E0%A6%86%E0%A6%AA/"> ০-১ ন্যাপস্যাকঃ বটম আপ ও স্পেস অপটিমাইজেশন টেকনিক – return 0;</a>\n\n
+
+        <font size="18"><b>বিটমাস্ক ডিপি\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1357"> বিটমাস্ক ডিপি - শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="18"><b>মিনিমাম ভারটেক্স কভার প্রবলেম\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=582"> মিনিমাম ভারটেক্স কভার প্রবলেম | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="18"><b>ম্যাট্রিক্স চেইন মাল্টিপ্লিকেশন\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1885"> ডাইনামিক প্রোগ্রামিং: ম্যাট্রিক্স চেইন মাল্টিপ্লিকেশন | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="18"><b>ডিজিট ডিপি\n\n</b></font>
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/09/digit-dp.html"> Shakil Ahmed\'s Blog : Digit Dp</a>\n\n
+
+        <font size="18"><b>DP on Tree\n\n</b></font>
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2016/06/dp-on-tree.html"> Shakil Ahmed\'s Blog : DP on Tree</a>\n\n
+
+        <font size="18"><b>DP Optimization \n\n</b></font>
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-tricks-knuths-optimization.html"> Shakil Ahmed\'s Blog : DP trick - Knuth\'s optimization</a>\n\n
+        # <a href="https://returnzerooo.wordpress.com/2017/10/21/%E0%A6%A1%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%85%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8/"> Divide &amp; Conquer Optimization – DP(ডিপি অপ্টিমাইজেশন) – return 0;</a>\n\n
+        # <a href="https://rezwanarefin01.github.io/posts/convex-hull-trick/"> Dynamic Programming Optimization - Convex Hull Trick</a>\n\n
+
+        <font size="18"><b>কম্বিনেটরিক্স - গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং\n\n</b></font>
+        # <a href="http://shoshikkha.com/archives/4182"> কম্বিনেটরিক্স - গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং » স্বশিক্ষা</a>\n\n
+        # <a href="http://shoshikkha.com/archives/4240"> কম্বিনেটরিক্স - গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং ২ » স্বশিক্ষা</a>\n\n
+
+        <font size="18"><b>Traveling Salesman problem\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=571"> ইউভিএ ১০৭০২(ট্রাভেলিং সেলসম্যান)</a>\n\n
+
+        <font size="18"><b>Some interesting DP Problems\n\n</b></font>
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-1.html">Shakil Ahmed\'s Blog : Light OJ DP part - 1</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-2.html">Shakil Ahmed\'s Blog : Light OJ DP part - 2</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-part-3.html">Shakil Ahmed\'s Blog : DP part - 3</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2016/03/dp-part-4.html"> Shakil Ahmed\'s Blog : Dp part - 4</a>\n\n
+        # <a href="https://returnzerooo.wordpress.com/2017/11/12/lightoj-dp-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A7%A7/">LightOj Dp – পর্ব ১ - return 0</a>\n\n
+    </string>
+    <string name="graph">
+        <font size="20"><b>গ্রাফ থিওরি ব্যাসিক\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=143"> গ্রাফ থিওরিতে হাতেখড়ি - ১ | শাফায়েতের ব্লগ | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=184"> গ্রাফ থিওরিতে হাতেখড়ি – ২ (টিউটোরিয়াল) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=211"> গ্রাফ থিওরিতে হাতেখড়ি – ৩ (ভ্যারিয়েবলে গ্রাফ স্টোর-২) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.progkriya.org/gyan/adj-list-trick.html"> অ্যাডজেসেন্সি লিস্ট ট্রিক</a>\n\n
+
+        <font size="20"><b>ব্রেডথ ফার্স্ট সার্চ-বিএফএস (Breadth First Search-BFS)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=521"> ট্রি ডায়ামিটার | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=604"> গ্রাফ থিওরিতে হাতেখড়ি-৪ (ব্রেথড ফার্স্ট সার্চ-bfs) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2016/05/01-bfs.html"> Shakil Ahmed\'s Blog : 0/1 BFS - Blogger</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/06/bfsdfs-part-1.html"> Shakil Ahmed\'s Blog : BFS/DFS part - 1 - Blogger</a>\n\n
+
+        <font size="20"><b>ডেপথ ফার্স্ট সার্চ-ডিএফএস (Depth First Search-DFS) এবং টপোলজিকাল সর্ট (Topological Sort)\n\n</b></font>
+        # <a href="https://sites.google.com/site/smilitude/topsort"> টপোলজিকাল সর্ট - smilitude</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=848"> টপোলোজিকাল সর্ট | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=973"> ডেপথ ফার্স্ট সার্চ এবং আবারো টপোলোজিকাল সর্ট | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="20"><b>ফ্লাড ফিল অ্যালগরিদম\n\n</b></font>
+        # <a href="https://hellohasan.com/2016/08/21/%e0%a6%ab%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%a1-%e0%a6%ab%e0%a6%bf%e0%a6%b2-flood-fill-algorithm-bengali/"> ফ্লাড ফিল অ্যালগরিদম - Flood Fill Algorithm - Hasaner Rafkhata</a>\n\n
+
+        <font size="20"><b>শর্টেস্ট পাথ (Shortest Path Finding)\n\n</b></font>
+        # <a href="www.progkriya.org/gyan/shortest-path.html"> গ্রাফ থিওরী - শর্টেস্ট পাথ প্রবলেম</a>\n\n
+        # <a href="https://sites.google.com/site/smilitude/shortestpath_problems"> শর্টেস্ট পাথ - প্রবলেম নিয়ে বকর বকর - smilitude</a>\n\n
+        # <a href="https://sites.google.com/site/smilitude/shortestpath"> শর্টেস্ট পাথের অ্যালগরিদম - smilitude</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1500"> ডায়াক্সট্রা | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1927"> ফ্লয়েড ওয়ার্শল | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2044"> বেলম‍্যান ফোর্ড | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="20"><b>নেটওয়ার্ক ফ্লো এলগোরিদম (Network Flow Algorithm)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2195"> ম্যাক্সিমাম ফ্লো (১) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2231"> ম্যাক্সিমাম ফ্লো (২) | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="20"><b>বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (Bi-connected Component, Bridge, Articulation Point)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2504"> আর্টিকুলেশন পয়েন্ট এবং ব্রিজ | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://blog.faiyaz.info/bcc/"> বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট ... - Faiyaz\'s Blog</a>\n\n
+
+
+        <font size="20"><b>স্ট্রংলি কানেক্টেড কম্পোনেন্ট (Strongly Connected Component)\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2531">স্ট্রংলি কানেক্টেড কম্পোনেন্ট | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="20"><b>ডিরেকশন অ্যারে\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1448"> ডিরেকশন অ্যারে | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="20"><b>স্টেবল ম্যারেজ প্রবলেম\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=1187"> স্টেবল ম্যারেজ প্রবলেম | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="20"><b>Maximum Bipartite Matching\n\n</b></font>
+        # <a href="http://www.shakilcompetitiveprogramming.blogspot.com/2013/12/maximum-bipartite-matching-by-kuhns.html"> Shakil Ahmed\'s Blog : Maximum Bipartite Matching by Kuhn\'s Algorithm</a>\n\n
+    </string>
+
+    <string name="game">
+        <font size="20"><b>গেম থিওরি বেসিক\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2325"> গেম থিওরি - ১ | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="20"><b>নিম গেম\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2608"> অ্যালগোরিদম গেম থিওরি-২ (নিম গেম) | শাফায়েতের ব্লগ</a>\n\n
+
+        <font size="20"><b>স্প্র্যাগ-গ্রান্ডি সংখ্যা\n\n</b></font>
+        # <a href="http://www.shafaetsplanet.com/planetcoding/?p=2714"> অ্যালগোরিদম গেম থিওরি ৩ (স্প্র্যাগ-গ্রান্ডি সংখ্যা) | শাফায়েতের ব্লগ</a>\n\n
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2014/09/game-theory-sprague-grundy-theorem.html"> Shakil Ahmed\'s Blog : Game Theory ( Sprague Grundy Theorem )</a>\n\n
+
+        <font size="20"><b>MinMax Algorithm\n\n</b></font>
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2013/12/minmax-algorithm.html"> Shakil Ahmed\'s Blog : MINMAX ALGORITHM</a>\n\n
+
+        <font size="20"><b>Take Away game\n\n</b></font>
+        # <a href="http://zobayer.blogspot.com/2010/08/simple-take-away-game.html">Simple Take Away Game - Zobayer</a>
+    </string>
+    <string name="str">
+        <font size="20"><b>KMP Algorithm\n\n</b></font>
+        # <a href="https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/"> KMP (Knuth-Morris-Pratt algorithm) - Tanvir\'s Blog - WordPress.com</a>\n\n
+        # <a href="https://returnzerooo.wordpress.com/2016/09/08/kmp/"> KMP অ্যালগোরিদম - return 0 - WordPress.com</a>\n\n
+        <font size="20"><b>Z Algorithm\n\n</b></font>
+        # <a href="http://shakilcompetitiveprogramming.blogspot.com/2015/06/z-algorithm.html"> Shakil Ahmed\'s Blog : Z Algorithm - Blogger</a>\n\n
+        <font size="20"><b>Aho-Corasick Algorithm\n\n</b></font>
+        # <a href="https://returnzerooo.wordpress.com/2017/09/28/%E0%A6%86%E0%A6%B9%E0%A7%8B-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95/"> আহো-কোরাসিক(Aho-Corasick) অ্যালগোরিদম - return 0 - WordPress.com</a>\n\n
+        <font size="20"><b>Hashing\n\n</b></font>
+        # <a href="https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6-hash-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%82-hashing-12b7cb6056b8"> হ্যাশ (Hash) এবং হ্যাশিং (Hashing) – প্রোগ্রামিং পাতা – Medium</a>\n\n
+        # <a href="https://cp-algorithms.com/string/string-hashing.html"> String Hashing - Competitive Programming Algorithms</a>\n\n
+        # <a href="https://threads-iiith.quora.com/String-Hashing-for-competitive-programming"> String Hashing for competitive programming - Threads @ IIIT Hyderabad</a>\n\n
+        # <a href="https://www.geeksforgeeks.org/hashing-data-structure/"> Hashing Data Structure - GeeksforGeeks</a>\n\n
+    </string>
+    <string name="about">About</string>
+</resources>

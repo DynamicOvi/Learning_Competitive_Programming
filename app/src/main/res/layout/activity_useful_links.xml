@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ovi.problemsolvingusingc.UsefulLinks">
+
+    <TextView
+        android:id="@+id/article_subheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#bcc7d8"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="প্রোগ্রামিং এর উপর কিছু বাংলা ব্লগ"
+        android:textAppearance="@android:style/TextAppearance"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/article_subheading"
+        android:background="#b3b3ff">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/link1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dawn_of_programming_contest"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="কম্পিউটার প্রোগ্রামিং বই"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="শাফায়েতের ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ফাহিমের ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="জোবায়েরের ব্লগ ১"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="জোবায়েরের ব্লগ ২"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সাব্বির ইউসুফ সানির ব্লগ ১"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="সাব্বির ইউসুফ সানির ব্লগ ২"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="হাসানের রাফখাতা"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="মুকিত চৌধুরীর ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="বিধানের ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আহমাদ ফাইয়াজের ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ফাইয়াজ বিন হোসেনের ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="মশিউর এর ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="আনা ফারিহার ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="তাওসিকের ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="শাকিলের ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/link18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="শিখরের ব্লগ"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

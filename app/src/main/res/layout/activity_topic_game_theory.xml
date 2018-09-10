@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ovi.problemsolvingusingc.TopicGameTheory">
+    <TextView
+        android:id="@+id/article_subheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:padding="5dp"
+        android:textStyle="bold"
+        android:background="#bcc7d8"
+        android:textAppearance="@android:style/TextAppearance"
+        android:text="Game Theory"/>
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/article_subheading"
+        android:background="#dbd7ed">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:text=
+                    "This section contains the following topics:\n\n
+গেম থিওরি বেসিক\n\n
+নিম গেম\n\n
+স্প্র্যাগ-গ্রান্ডি সংখ্যা\n\n
+MINMAX ALGORITHM\n\n
+Take Away game\n\n
+">
+            </TextView>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="#177dea"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n"/>
+            <TextView
+                android:id="@+id/game"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/game"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

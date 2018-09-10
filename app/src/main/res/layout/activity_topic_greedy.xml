@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ovi.problemsolvingusingc.TopicGreedy">
+    <TextView
+        android:id="@+id/article_subheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:padding="5dp"
+        android:textStyle="bold"
+        android:background="#bcc7d8"
+        android:textAppearance="@android:style/TextAppearance"
+        android:text="Some Greedy Techniques"/>
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/article_subheading"
+        android:background="#dbd7ed">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:text=
+                    "This section contains the following topics:\n\n
+Basic of Greedy Techniques\n\n
+Activity Selection Problem, Change Making, Interval Scheduling Problem\n\n
+Fractional Knapsack Problem\n\n
+মিনিমাম স্প্যানিং ট্রি (Minimum Spanning Tree)\n\n
+Huffman Coding\n\n
+Two Pointer\n\n
+Problems Based on Greedy Technique\n\n
+">
+            </TextView>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="#177dea"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n"/>
+            <TextView
+                android:id="@+id/greedy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/greedy"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

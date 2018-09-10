@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ovi.problemsolvingusingc.TopicGraph">
+    <TextView
+        android:id="@+id/article_subheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:padding="5dp"
+        android:textStyle="bold"
+        android:background="#bcc7d8"
+        android:textAppearance="@android:style/TextAppearance"
+        android:text="Graphs"/>
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/article_subheading"
+        android:background="#dbd7ed">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:text="This section contains the following topics:\n\n
+গ্রাফ থিওরি ব্যাসিক\n\n
+ব্রেথড ফার্স্ট সার্চ-বিএফএস (Breadth First Search-BFS)\n\n
+ডেপথ ফার্স্ট সার্চ-ডিএফএস (Depth First Search-DFS) এবং টপোলজিকাল সর্ট (Topological Sort)\n\n
+ফ্লাড ফিল অ্যালগরিদম\n\n
+শর্টেস্ট পাথ (Shortest Path Finding)\n\n
+নেটওয়ার্ক ফ্লো এলগোরিদম (Network Flow Algorithm)\n\n
+বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (Bi-connected Component, Bridge, Articulation Point)\n\n
+স্ট্রংলি কানেক্টেড কম্পোনেন্ট (Strongly Connected Component)\n\n
+ডিরেকশন অ্যারে\n\n
+স্টেবল ম্যারেজ প্রবলেম\n\n
+Maximum Bipartite Matching\n\n
+">
+            </TextView>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="#177dea"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n"/>
+            <TextView
+                android:id="@+id/graph"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/graph"
+                android:textSize="14sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="#177dea"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:text=
+                    "\nThe following topics will be added soon:\n\n
+Directed Acyclic Graph\n\n
+Bipartite Graph checking\n\n
+Cayley's Theorem\n\n
+Euler tour/path\n\n
+Hamiltonian Cycle\n\n
+Chinese Postman problem\n\n
+">
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

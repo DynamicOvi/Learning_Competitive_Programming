@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ovi.problemsolvingusingc.TopicDP">
+    <TextView
+        android:id="@+id/article_subheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:padding="5dp"
+        android:textStyle="bold"
+        android:background="#bcc7d8"
+        android:textAppearance="@android:style/TextAppearance"
+        android:text="Recursion &amp; Dynamic Programming"/>
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/article_subheading"
+        android:background="#dbd7ed">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:text=
+                    "This section contains the following topics:\n\n
+Recursion\n\n
+    ব্যাকট্র্যাকিং\n\n
+    ইনক্লুশন এক্সক্লুশন\n\n
+ডায়নামিক প্রোগ্রামিং\n\n
+    ডায়নামিক প্রোগ্রামিং ব্যাসিক\n\n
+    কয়েন চেঞ্জ (Coin Change)\n\n
+    লংগেস্ট কমন সাবসিকোয়েন্স (LCS)\n\n
+    লংগেস্ট ইনক্রিসিং সাবসিকোয়েন্স (LIS)\n\n
+    ০/১ ন্যাপসাক (0/1 knapsack)\n\n
+    বিটমাস্ক ডিপি\n\n
+    মিনিমাম ভারটেক্স কভার প্রবলেম\n\n
+    ম্যাট্রিক্স চেইন মাল্টিপ্লিকেশন\n\n
+    ডিজিট ডিপি\n\n
+    DP on Tree\n\n
+    DP Optimization\n\n
+    কম্বিনেটরিক্স - গ্রিড ট্রাভেলিং এবং ডায়নামিক প্রোগ্রামিং\n\n
+    Traveling Salesman problem\n\n
+    Some interesting DP Problems\n\n
+">
+            </TextView>
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="#177dea"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n"/>
+            <TextView
+                android:id="@+id/dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dp"
+                android:textSize="14sp" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="2dp"
+                android:background="#177dea"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:text=
+                    "\nThe following topics will be added soon:\n\n
+Rod Cutting\n\n
+Calculating nCr using DP\n\n
+">
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
